@@ -1,4 +1,6 @@
-[
+ {
+
+   "product":[
     { 
       "id":1, 
       "imageUrl": "https://www.sephora.com/productimages/sku/s2518959-main-zoom.jpg?imwidth=270&imwidth=164",
@@ -2376,3 +2378,4 @@
       "type": "tanners"
     }
   ]
+ }
